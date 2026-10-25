@@ -12,3 +12,4 @@ Each file is named `YYYY-MM-DD_<problem-slug>.py` and contains the problem state
 | 2026-10-20 | Sum of Sortable Integers | Hard | https://leetcode.com/problems/sum-of-sortable-integers/ |
 | 2026-10-21 | Minimum Operations to Sort a String | Medium | https://leetcode.com/problems/minimum-operations-to-sort-a-string/ |
 | 2026-10-22 | Minimum Operations to Sort a Permutation | Medium | https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/ |
+| 2026-10-25 | Number of Closed Islands | Medium | https://leetcode.com/problems/number-of-closed-islands/ |
