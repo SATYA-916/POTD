@@ -16,3 +16,4 @@ Each file is named `YYYY-MM-DD_<problem-slug>.py` and contains the problem state
 | 2026-10-26 | Count Islands With Total Value Divisible by K | Medium | https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/ |
 | 2026-10-27 | Create Grid With Exactly One Path | Easy | https://leetcode.com/problems/create-grid-with-exactly-one-path/ |
 | 2026-10-28 | Minimum XOR Path in a Grid | Medium | https://leetcode.com/problems/minimum-xor-path-in-a-grid/ |
+| 2026-10-29 | Palindromic Path Queries in a Tree | Hard | https://leetcode.com/problems/palindromic-path-queries-in-a-tree/ |
