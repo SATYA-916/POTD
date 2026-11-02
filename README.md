@@ -18,3 +18,4 @@ Each file is named `YYYY-MM-DD_<problem-slug>.py` and contains the problem state
 | 2026-10-28 | Minimum XOR Path in a Grid | Medium | https://leetcode.com/problems/minimum-xor-path-in-a-grid/ |
 | 2026-10-29 | Palindromic Path Queries in a Tree | Hard | https://leetcode.com/problems/palindromic-path-queries-in-a-tree/ |
 | 2026-10-30 | Shortest Path With At Most K Consecutive Identical Characters | Medium | https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/ |
+| 2026-11-02 | Minimum Moves to Equal Array Elements II | Medium | https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/ |
