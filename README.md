@@ -20,3 +20,4 @@ Each file is named `YYYY-MM-DD_<problem-slug>.py` and contains the problem state
 | 2026-10-30 | Shortest Path With At Most K Consecutive Identical Characters | Medium | https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/ |
 | 2026-11-02 | Minimum Moves to Equal Array Elements II | Medium | https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/ |
 | 2026-11-03 | Minimum Moves to Equal Array Elements III | Easy | https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/ |
+| 2026-11-04 | Minimum Operations to Make Elements Within K Subarrays Equal | Hard | https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/ |
