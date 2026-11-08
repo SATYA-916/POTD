@@ -24,3 +24,4 @@ Each file is named `YYYY-MM-DD_<problem-slug>.py` and contains the problem state
 | 2026-11-05 | Find the Distance Value Between Two Arrays | Easy | https://leetcode.com/problems/find-the-distance-value-between-two-arrays/ |
 | 2026-11-06 | Count Zero Request Servers | Medium | https://leetcode.com/problems/count-zero-request-servers/ |
 | 2026-11-07 | Process Tasks Using Servers | Medium | https://leetcode.com/problems/process-tasks-using-servers/ |
+| 2026-11-08 | Count Servers that Communicate | Medium | https://leetcode.com/problems/count-servers-that-communicate/ |
