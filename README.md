@@ -26,3 +26,4 @@ Each file is named `YYYY-MM-DD_<problem-slug>.py` and contains the problem state
 | 2026-11-07 | Process Tasks Using Servers | Medium | https://leetcode.com/problems/process-tasks-using-servers/ |
 | 2026-11-08 | Count Servers that Communicate | Medium | https://leetcode.com/problems/count-servers-that-communicate/ |
 | 2026-11-09 | Find Servers That Handled Most Number of Requests | Hard | https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/ |
+| 2026-11-11 | Minimum Cost to Acquire Required Items | Medium | https://leetcode.com/problems/minimum-cost-to-acquire-required-items/ |
