@@ -29,3 +29,4 @@ Each file is named `YYYY-MM-DD_<problem-slug>.py` and contains the problem state
 | 2026-11-11 | Minimum Cost to Acquire Required Items | Medium | https://leetcode.com/problems/minimum-cost-to-acquire-required-items/ |
 | 2026-11-12 | Longest Strictly Increasing or Strictly Decreasing Subarray | Easy | https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/ |
 | 2026-11-13 | Count Non-Decreasing Subarrays After K Operations | Hard | https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/ |
+| 2026-11-14 | Minimum Positive Sum Subarray | Easy | https://leetcode.com/problems/minimum-positive-sum-subarray/ |
