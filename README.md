@@ -32,3 +32,4 @@ Each file is named `YYYY-MM-DD_<problem-slug>.py` and contains the problem state
 | 2026-11-14 | Minimum Positive Sum Subarray | Easy | https://leetcode.com/problems/minimum-positive-sum-subarray/ |
 | 2026-11-15 | Number of Sub-arrays With Odd Sum | Medium | https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/ |
 | 2026-11-16 | Calculate Digit Sum of a String | Easy | https://leetcode.com/problems/calculate-digit-sum-of-a-string/ |
+| 2026-11-17 | Minimum Changes to Make K Semi-palindromes | Hard | https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/ |
