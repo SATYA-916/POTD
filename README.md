@@ -39,6 +39,7 @@ Each file is named `YYYY-MM-DD_<problem-slug>.py` and contains the problem state
 ## Array
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/SATYA-916/POTD/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/SATYA-916/POTD/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Greedy
 |  |
@@ -47,5 +48,18 @@ Each file is named `YYYY-MM-DD_<problem-slug>.py` and contains the problem state
 ## Sorting
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/SATYA-916/POTD/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/SATYA-916/POTD/tree/master/2567-minimum-score-by-changing-two-elements) |
+## Hash Table
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/SATYA-916/POTD/tree/master/0350-intersection-of-two-arrays-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/SATYA-916/POTD/tree/master/0350-intersection-of-two-arrays-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/SATYA-916/POTD/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
