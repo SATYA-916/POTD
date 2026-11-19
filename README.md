@@ -33,3 +33,19 @@ Each file is named `YYYY-MM-DD_<problem-slug>.py` and contains the problem state
 | 2026-11-15 | Number of Sub-arrays With Odd Sum | Medium | https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/ |
 | 2026-11-16 | Calculate Digit Sum of a String | Easy | https://leetcode.com/problems/calculate-digit-sum-of-a-string/ |
 | 2026-11-17 | Minimum Changes to Make K Semi-palindromes | Hard | https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/ |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/SATYA-916/POTD/tree/master/2567-minimum-score-by-changing-two-elements) |
+## Greedy
+|  |
+| ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/SATYA-916/POTD/tree/master/2567-minimum-score-by-changing-two-elements) |
+## Sorting
+|  |
+| ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/SATYA-916/POTD/tree/master/2567-minimum-score-by-changing-two-elements) |
+<!---LeetCode Topics End-->
