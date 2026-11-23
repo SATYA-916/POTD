@@ -42,6 +42,7 @@ Each file is named `YYYY-MM-DD_<problem-slug>.py` and contains the problem state
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SATYA-916/POTD/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/SATYA-916/POTD/tree/master/1352-product-of-the-last-k-numbers) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/SATYA-916/POTD/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/SATYA-916/POTD/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Greedy
@@ -70,4 +71,20 @@ Each file is named `YYYY-MM-DD_<problem-slug>.py` and contains the problem state
 |  |
 | ------- |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/SATYA-916/POTD/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+## Math
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/SATYA-916/POTD/tree/master/1352-product-of-the-last-k-numbers) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/SATYA-916/POTD/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/SATYA-916/POTD/tree/master/1352-product-of-the-last-k-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/SATYA-916/POTD/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
