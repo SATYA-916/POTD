@@ -1,12 +1,12 @@
 class ProductOfNumbers:
     s,x,i=[],set(),0
     def __init__(self):
-        self.s,self.x,self.i=[1],set(),0
+        self.s,self.i=[1],0
     def add(self, num: int) -> None:
-        self.i=self.i<<1|(num!=0)
+        self.i=self.i<<1|(num!=0) #mask creation
         self.s.append(max(self.s[-1]*num,1))
     def getProduct(self, k: int) -> int:
-        if self.i&(1<<k)-1==(1<<k)-1:
+        if self.i&(1<<k)-1==(1<<k)-1: #chk the mask with number
             return self.s[-1]//self.s[-k-1]
         return 0
 
