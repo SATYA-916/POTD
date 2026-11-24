@@ -45,6 +45,7 @@ Each file is named `YYYY-MM-DD_<problem-slug>.py` and contains the problem state
 | [1352-product-of-the-last-k-numbers](https://github.com/SATYA-916/POTD/tree/master/1352-product-of-the-last-k-numbers) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/SATYA-916/POTD/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/SATYA-916/POTD/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/SATYA-916/POTD/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Greedy
 |  |
 | ------- |
@@ -75,6 +76,7 @@ Each file is named `YYYY-MM-DD_<problem-slug>.py` and contains the problem state
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/SATYA-916/POTD/tree/master/1352-product-of-the-last-k-numbers) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/SATYA-916/POTD/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Design
 |  |
 | ------- |
@@ -87,4 +89,16 @@ Each file is named `YYYY-MM-DD_<problem-slug>.py` and contains the problem state
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/SATYA-916/POTD/tree/master/1352-product-of-the-last-k-numbers) |
+## Sliding Window
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/SATYA-916/POTD/tree/master/3411-maximum-subarray-with-equal-products) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/SATYA-916/POTD/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/SATYA-916/POTD/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
