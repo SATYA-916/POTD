@@ -35,6 +35,7 @@ Each file is named `YYYY-MM-DD_<problem-slug>.py` and contains the problem state
 | 2026-11-17 | Minimum Changes to Make K Semi-palindromes | Hard | https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/ |
 | 2026-11-22 | Check if All A's Appears Before All B's | Easy | https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/ |
 | 2026-11-23 | Product of the Last K Numbers | Medium | https://leetcode.com/problems/product-of-the-last-k-numbers/ |
+| 2026-11-25 | Smallest Unique Subarray | Hard | https://leetcode.com/problems/smallest-unique-subarray/ |
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
@@ -101,4 +102,3 @@ Each file is named `YYYY-MM-DD_<problem-slug>.py` and contains the problem state
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/SATYA-916/POTD/tree/master/3411-maximum-subarray-with-equal-products) |
-<!---LeetCode Topics End-->
